@@ -2,7 +2,7 @@
 // Testing in zero mod
 const express = require("express"); 
 const app = express(); 
-var QRCode = require('qrcode')
+
 const PORT = process.env.PORT || 3002; 
 
 
